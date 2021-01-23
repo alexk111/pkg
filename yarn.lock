@@ -2618,10 +2618,10 @@ pkg-dir@^3.0.0:
   dependencies:
     find-up "^3.0.0"
 
-pkg-fetch@^2.6.7:
-  version "2.6.7"
-  resolved "https://registry.yarnpkg.com/pkg-fetch/-/pkg-fetch-2.6.7.tgz#4625b1583e5b32e0771f35c1dc56306e52f1a3db"
-  integrity sha512-hQ+M53fphA300EkIvNoIxEdFltWcsDOqHZlaFzWJ78wIuFTIT7OrnXUQMAGC6qLkXq7eWCMU/4pTWsFvprUZMg==
+"pkg-fetch@npm:@alexk111/pkg-fetch@2.6.8":
+  version "2.6.8"
+  resolved "https://npm.pkg.github.com/download/@alexk111/pkg-fetch/2.6.8/d120dc337706e4828f396b88cb4ea87100299050ebce46efa4e2eae1074da7b3#5983c2ee052f206fd24083779c793748a7d39a62"
+  integrity sha512-bm/haOWhRypbPUvODvugPCTh3Pk0gujxqtbHeJFFdc70pmzsM68gIkAjHhJ5I3AbKeOtOsGgIxj6Z+ijyK0B9A==
   dependencies:
     "@babel/runtime" "^7.9.2"
     byline "^5.0.0"
