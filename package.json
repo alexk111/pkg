@@ -1,6 +1,6 @@
 {
   "name": "@alexk111/pkg",
-  "version": "4.4.9",
+  "version": "4.4.10",
   "description": "Package your Node.js project into an executable",
   "main": "lib-es5/index.js",
   "license": "MIT",
@@ -30,7 +30,7 @@
     ]
   },
   "dependencies": {
-    "@alexk111/pkg-fetch": "2.6.8",
+    "@alexk111/pkg-fetch": "https://github.com/alexk111/pkg-fetch/releases/download/v2.6/pkg-fetch-2.6.8-npm.tgz",
     "@babel/parser": "^7.9.4",
     "@babel/runtime": "^7.9.2",
     "chalk": "^3.0.0",

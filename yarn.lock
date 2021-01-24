@@ -2,10 +2,9 @@
 # yarn lockfile v1
 
 
-"@alexk111/pkg-fetch@2.6.8":
+"@alexk111/pkg-fetch@https://github.com/alexk111/pkg-fetch/releases/download/v2.6/pkg-fetch-2.6.8-npm.tgz":
   version "2.6.8"
-  resolved "https://npm.pkg.github.com/download/@alexk111/pkg-fetch/2.6.8/d120dc337706e4828f396b88cb4ea87100299050ebce46efa4e2eae1074da7b3#5983c2ee052f206fd24083779c793748a7d39a62"
-  integrity sha512-bm/haOWhRypbPUvODvugPCTh3Pk0gujxqtbHeJFFdc70pmzsM68gIkAjHhJ5I3AbKeOtOsGgIxj6Z+ijyK0B9A==
+  resolved "https://github.com/alexk111/pkg-fetch/releases/download/v2.6/pkg-fetch-2.6.8-npm.tgz#5983c2ee052f206fd24083779c793748a7d39a62"
   dependencies:
     "@babel/runtime" "^7.9.2"
     byline "^5.0.0"
