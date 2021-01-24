@@ -2,6 +2,23 @@
 # yarn lockfile v1
 
 
+"@alexk111/pkg-fetch@2.6.8":
+  version "2.6.8"
+  resolved "https://npm.pkg.github.com/download/@alexk111/pkg-fetch/2.6.8/d120dc337706e4828f396b88cb4ea87100299050ebce46efa4e2eae1074da7b3#5983c2ee052f206fd24083779c793748a7d39a62"
+  integrity sha512-bm/haOWhRypbPUvODvugPCTh3Pk0gujxqtbHeJFFdc70pmzsM68gIkAjHhJ5I3AbKeOtOsGgIxj6Z+ijyK0B9A==
+  dependencies:
+    "@babel/runtime" "^7.9.2"
+    byline "^5.0.0"
+    chalk "^3.0.0"
+    expand-template "^2.0.3"
+    fs-extra "^8.1.0"
+    minimist "^1.2.5"
+    progress "^2.0.3"
+    request "^2.88.0"
+    request-progress "^3.0.0"
+    semver "^6.3.0"
+    unique-temp-dir "^1.0.0"
+
 "@babel/cli@^7.8.4":
   version "7.8.4"
   resolved "https://registry.yarnpkg.com/@babel/cli/-/cli-7.8.4.tgz#505fb053721a98777b2b175323ea4f090b7d3c1c"
@@ -2617,23 +2634,6 @@ pkg-dir@^3.0.0:
   integrity sha512-/E57AYkoeQ25qkxMj5PBOVgF8Kiu/h7cYS30Z5+R7WaiCCBfLq58ZI/dSeaEKb9WVJV5n/03QwrN3IeWIFllvw==
   dependencies:
     find-up "^3.0.0"
-
-"pkg-fetch@npm:@alexk111/pkg-fetch@2.6.8":
-  version "2.6.8"
-  resolved "https://npm.pkg.github.com/download/@alexk111/pkg-fetch/2.6.8/d120dc337706e4828f396b88cb4ea87100299050ebce46efa4e2eae1074da7b3#5983c2ee052f206fd24083779c793748a7d39a62"
-  integrity sha512-bm/haOWhRypbPUvODvugPCTh3Pk0gujxqtbHeJFFdc70pmzsM68gIkAjHhJ5I3AbKeOtOsGgIxj6Z+ijyK0B9A==
-  dependencies:
-    "@babel/runtime" "^7.9.2"
-    byline "^5.0.0"
-    chalk "^3.0.0"
-    expand-template "^2.0.3"
-    fs-extra "^8.1.0"
-    minimist "^1.2.5"
-    progress "^2.0.3"
-    request "^2.88.0"
-    request-progress "^3.0.0"
-    semver "^6.3.0"
-    unique-temp-dir "^1.0.0"
 
 pkg-up@^2.0.0:
   version "2.0.0"
